@@ -1,0 +1,6 @@
+- https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27
+- https://medium.freecodecamp.com/a-step-by-step-guide-to-making-pure-css-tooltips-3d5a3e237346
+- https://medium.freecodecamp.com/grabs-front-end-guide-for-large-teams-484d4033cc41
+- https://github.com/getify/You-Dont-Know-JS
+- https://medium.freecodecamp.com/javascript-arrays-and-objects-are-just-like-books-and-newspapers-6e1cbd8a1746
+- https://medium.freecodecamp.org/a-practical-guide-to-fetch-reduce-and-formatting-data-from-an-external-api-283ddd9bfdcb
